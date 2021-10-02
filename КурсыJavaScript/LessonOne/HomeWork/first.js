@@ -20,6 +20,7 @@ console.log (string, number, boolean, Null, bigInt, Undefind, object2, symbol)
 
 arr = [string, number, boolean, Null, bigInt, Undefind, object2, symbol]
 
+
 function Typeof(){
     console.log(typeof string)
     console.log(typeof boolean)
